@@ -1,4 +1,4 @@
-## SehatIn - Makananmu, Badanmu, Kesehatanmu     
+## SehatIn - Eat Better, Feel Better     
 
 Team ID : CH2-PS051
 ![sehatin](https://raw.githubusercontent.com/SehatIn-CH2-PS051/.github/main/base.png?raw=true)
